@@ -2,6 +2,8 @@
 
 This is a Next.js project, used to create a POAP NFT for the Futureverse Dev Days 2024 event.
 
+![Bildschirmfoto 2024-12-09 um 14 55 00](https://github.com/user-attachments/assets/1997c4a1-3d57-4283-a692-30a47a22f224)
+
 ## Requirements
 
 - Node.js v20.18.0
